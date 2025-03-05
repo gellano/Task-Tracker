@@ -1,2 +1,2 @@
 # Task-Tracker
-Generic task tracker with weird features that I can't find anywhere else (for free at least).
+Simple task tracker app built to learn my way around Xcode and a bit about swift.
